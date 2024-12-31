@@ -7,7 +7,7 @@ This project is a Context-Based Image Captioning website that leverages computer
 Upload images and provide contextual text inputs.
 Real-time caption generation using advanced deep learning models.
 
-### Multi-Model Comparison:
+##### Multi-Model Comparison:
 Four models were evaluated for feature extraction: Xception, ResNet, VGG16, and EfficientNet.
 The Xception model performed the best, achieving the highest BLEU score (~60%).
 

@@ -13,3 +13,18 @@ The Xception model performed the best, achieving the highest BLEU score (~60%).
 
 ### Context Integration:
 Allows users to include additional contextual information to enhance the captions generated for uploaded images.
+
+## Website Demo
+
+The website consists of the following components:
+
+### Home Page:
+1. Brief introduction to the project.
+2. Option to upload an image.
+
+### Image Upload & Captioning:
+1. Upload an image and provide additional contextual text.
+2. Click on "Generate Caption" to receive a caption based on the image and context.
+
+### Model Insights:
+Comparison of the four models used in the project, highlighting their performance metrics and visual examples.

@@ -29,10 +29,5 @@ The website consists of the following components:
 #### Model Insights:
 Comparison of the four models used in the project, highlighting their performance metrics and visual examples.
 
-### Model Performance
-Model	BLEU Score	Training Time
-Xception	60%	~2 hours
-ResNet	55%	~1.8 hours
-VGG16	52%	~2.5 hours
-EfficientNet	54%	~3 hours
+
 

@@ -29,5 +29,12 @@ The website consists of the following components:
 #### Model Insights:
 Comparison of the four models used in the project, highlighting their performance metrics and visual examples.
 
+#### Future Work
+Further optimization of the model to improve BLEU scores.
+
+Expand the system to support multiple languages for caption generation.
+
+Explore additional datasets for more diverse captioning capabilities.
+
 
 
